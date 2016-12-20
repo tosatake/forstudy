@@ -1,3 +1,5 @@
 puts "I have a pen,"
 puts "I have an apple,"
-puts "Oh,"
+puts "Oh!"
+puts "Apple pen."
+puts "I have a pen,"
