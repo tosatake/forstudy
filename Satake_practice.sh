@@ -1,1 +1,1 @@
-#!/bin/sh -xepwdwhoamirbenv versions#Display textcat UBW.tx#Execute rubyruby task_1.rb
+#!/bin/sh -xepwdwhoamirbenv versions#Display textcat UBW.txt#Execute rubyrudy task_1.rb
